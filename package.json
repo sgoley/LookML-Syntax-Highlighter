@@ -1,0 +1,39 @@
+{
+    "name": "lookml-syntax-highlighter",
+    "displayName": "Looker LookML Syntax Highlighter",
+    "description": "Write awesome indicators or strategies with me!",
+    "version": "0.0.1",
+    "author": "Scott Goley <scottmgoley@gmail.com> (https://github.com/sgoley)",
+    "icon": "images/lookml.png",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Language Packs",
+        "Programming Languages",
+        "Themes"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "lookml",
+            "aliases": ["Looker Model", "LookML", "lookml"],
+            "extensions": [".lookml",".model.lkml",".view.lkml"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "lookml",
+            "scopeName": "source.lkml",
+            "path": "./syntaxes/lookml.tmLanguage.json"
+        }]
+    },
+    "homepage": "https://github.com/sgoley/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sgoley/lookml-syntax-highlight.git",
+        "bugs": {
+            "url": "https://github.com/sgoley/lookml-syntax-highlight/issues",
+            "email": "scottmgoley@gmail.com"
+        }
+    },
+    "license": "MIT"
+}
