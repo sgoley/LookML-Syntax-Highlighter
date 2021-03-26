@@ -4,6 +4,7 @@
     "description": "Write awesome indicators or strategies with me!",
     "version": "0.0.1",
     "author": "Scott Goley <scottmgoley@gmail.com> (https://github.com/sgoley)",
+    "publisher": "sgoley",
     "icon": "images/lookml.png",
     "engines": {
         "vscode": "^1.37.0"
