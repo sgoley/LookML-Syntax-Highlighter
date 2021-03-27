@@ -32,7 +32,7 @@
         "type": "git",
         "url": "https://github.com/sgoley/lookml-syntax-highlighter.git",
         "bugs": {
-            "url": "https://github.com/sgoley/lookml-syntax-highlighter/issues",
+            "url": "https://github.com/sgoley/lookml-syntax-highlighter/issues"
         }
     },
     "license": "MIT"
