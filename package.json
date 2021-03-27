@@ -1,7 +1,7 @@
 {
     "name": "lookml-syntax-highlighter",
     "displayName": "Looker LookML Syntax Highlighter",
-    "description": "Write awesome indicators or strategies with me!",
+    "description": "Basic highlighting syntax language for Looker model files",
     "version": "0.0.1",
     "author": "Scott Goley <scottmgoley@gmail.com> (https://github.com/sgoley)",
     "publisher": "sgoley",
