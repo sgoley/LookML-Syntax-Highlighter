@@ -2,7 +2,7 @@
     "name": "lookml-syntax-highlighter",
     "displayName": "Looker LookML Syntax Highlighter",
     "description": "Basic highlighting syntax language for Looker model files",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Scott Goley <scottmgoley@gmail.com> (https://github.com/sgoley)",
     "publisher": "sgoley",
     "icon": "images/lookml.png",
@@ -30,10 +30,9 @@
     "homepage": "https://github.com/sgoley/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sgoley/lookml-syntax-highlight.git",
+        "url": "https://github.com/sgoley/lookml-syntax-highlighter.git",
         "bugs": {
-            "url": "https://github.com/sgoley/lookml-syntax-highlight/issues",
-            "email": "scottmgoley@gmail.com"
+            "url": "https://github.com/sgoley/lookml-syntax-highlighter/issues",
         }
     },
     "license": "MIT"
