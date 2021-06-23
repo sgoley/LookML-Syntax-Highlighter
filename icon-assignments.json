@@ -1,0 +1,12 @@
+{
+    "iconDefinitions": {
+        "_looker_explore" : {"iconPath": "./images/icons/file_type_explore_lkml.png"},
+        "_looker_model" : {"iconPath": "./images/icons/file_type_model_lkml_2.png"},
+        "_looker_view" : {"iconPath": "./images/icons/file_type_view_lkml.png"}
+    },
+    "fileExtensions": {
+        ".explore.lkml" : "_looker_explore",
+        ".model.lkml" : "_looker_model",
+        ".view.lkml" : "_looker_view"
+    }
+}

@@ -2,12 +2,12 @@
     "name": "lookml-syntax-highlighter",
     "displayName": "Looker LookML Syntax Highlighter",
     "description": "Basic highlighting syntax language for Looker model files",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "Scott Goley <scottmgoley@gmail.com> (https://github.com/sgoley)",
     "publisher": "sgoley",
     "icon": "images/lookml.png",
     "engines": {
-        "vscode": "^1.37.0"
+        "vscode": "^1.40.0"
     },
     "categories": [
         "Language Packs",
@@ -25,6 +25,11 @@
             "language": "lookml",
             "scopeName": "source.lkml",
             "path": "./syntaxes/lookml.tmLanguage.json"
+        }], 
+        "iconThemes": [{
+            "id":"looker-icons",
+            "label":"Looker icon theme",
+            "path":"./icon-assignments.json"
         }]
     },
     "homepage": "https://github.com/sgoley/",
