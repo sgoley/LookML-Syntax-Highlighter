@@ -18,7 +18,7 @@
         "languages": [{
             "id": "lookml",
             "aliases": ["Looker Model", "LookML", "lookml"],
-            "extensions": [".lookml",".model.lkml",".view.lkml"],
+            "extensions": [".lookml",".model.lkml",".view.lkml",".lkml"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
